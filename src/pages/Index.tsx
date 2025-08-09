@@ -223,11 +223,11 @@ const Index = () => {
                 <div className="flex flex-wrap gap-4">
                   <div className="flex items-center">
                     <Icon name="MapPin" size={20} className="text-primary mr-2" />
-                    <span>Москва, Россия</span>
+                    <span>Воронеж, Россия</span>
                   </div>
                   <div className="flex items-center">
                     <Icon name="Calendar" size={20} className="text-primary mr-2" />
-                    <span>5+ лет опыта</span>
+                    <span>1+ год опыта</span>
                   </div>
                 </div>
               </div>
