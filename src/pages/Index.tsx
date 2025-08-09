@@ -309,7 +309,7 @@ const Index = () => {
         <div className="container mx-auto text-center">
           <div className="text-2xl font-bold text-gradient mb-4">Portfolio</div>
           <p className="text-muted-foreground mb-6">
-            Создаю уникальные дизайн-решения с 2019 года
+            Создаю уникальные дизайн-решения
           </p>
           <div className="flex justify-center space-x-6">
             <Button variant="ghost" size="sm">
