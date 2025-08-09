@@ -275,7 +275,7 @@ const Index = () => {
                 <Icon name="Mail" size={24} className="text-primary" />
               </div>
               <h3 className="font-semibold mb-2">Email</h3>
-              <p className="text-muted-foreground">hello@designer.com</p>
+              <p className="text-muted-foreground">mr.icewire@mail.ru</p>
             </Card>
             
             <Card className="p-6 hover-lift animate-fade-in" style={{animationDelay: '0.1s'}}>
@@ -283,7 +283,7 @@ const Index = () => {
                 <Icon name="MessageCircle" size={24} className="text-primary" />
               </div>
               <h3 className="font-semibold mb-2">Telegram</h3>
-              <p className="text-muted-foreground">@designer_tg</p>
+              <p className="text-muted-foreground">@Mikhail_Director</p>
             </Card>
             
             <Card className="p-6 hover-lift animate-fade-in" style={{animationDelay: '0.2s'}}>
@@ -291,7 +291,7 @@ const Index = () => {
                 <Icon name="Instagram" size={24} className="text-primary" />
               </div>
               <h3 className="font-semibold mb-2">Instagram</h3>
-              <p className="text-muted-foreground">@designer_insta</p>
+              <p className="text-muted-foreground">leroy.0911</p>
             </Card>
           </div>
           
