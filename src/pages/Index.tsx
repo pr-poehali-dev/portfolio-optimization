@@ -220,6 +220,18 @@ const Index = () => {
                   Имею собственную команду для реализации крупных проектов 
                   и всегда открыт для интересных предложений.
                 </p>
+                <div className="bg-gradient-to-r from-primary/10 to-secondary/10 p-6 rounded-2xl border border-primary/20 mt-6">
+                  <div className="flex items-center mb-3">
+                    <Icon name="Users" size={20} className="text-primary mr-2" />
+                    <h4 className="font-semibold text-lg">Проект манги — ищем партнёров!</h4>
+                  </div>
+                  <p className="text-muted-foreground leading-relaxed">
+                    Моя команда работает над уникальной мангой, и мы открыты для сотрудничества с брендами одежды, 
+                    обуви, а также заведениями — кафе, барами и ресторанами. Ваш бренд может стать частью истории: 
+                    наши персонажи будут носить вашу одежду и проводить время в любимых местах. 
+                    Это органичная интеграция в сюжет, которая создаст эмоциональную связь с аудиторией.
+                  </p>
+                </div>
                 <div className="flex flex-wrap gap-4">
                   <div className="flex items-center">
                     <Icon name="MapPin" size={20} className="text-primary mr-2" />
